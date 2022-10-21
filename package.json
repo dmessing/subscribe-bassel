@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+        "jest": "^29.2.1"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
